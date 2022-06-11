@@ -6,4 +6,7 @@
     <string name="sign_up">Sign Up</string>
     <string name="email_required">Email is required</string>
     <string name="password_required">Password is required</string>
+    <string name="Profile">Profile</string>
+    <string name="Track">Track</string>
+    <string name="Plan">Plan</string>
 </resources>
